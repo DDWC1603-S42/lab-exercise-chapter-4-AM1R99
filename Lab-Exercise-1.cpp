@@ -16,7 +16,7 @@ int main()
 
 	while(no2>0)
 	{
-	r=no1%10;
+	x=no1%10;
 	no1=no1/10;
 	sum=sum+x;
 
