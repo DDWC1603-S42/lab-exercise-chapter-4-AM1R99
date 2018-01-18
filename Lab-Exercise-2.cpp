@@ -19,13 +19,13 @@ int main()
 				if(i%u=)
 					sum=sum+u;
 
-	u++
+	u++;
 
 		if(sum=i)
 			
 			cout<<i<<" "<<endl;
 
-	i++
+	i++;
 		u=1;
 		sum=0;
 
