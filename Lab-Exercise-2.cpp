@@ -16,7 +16,7 @@ int main()
 
 			if(u<i)
 
-				if(i%u=)
+				if(i%=u)
 					sum=sum+u;
 
 	u++;
