@@ -3,14 +3,14 @@
 
 
 #include <iostream>
-
+using namespace std;
 
 int main()
 {
+	int i, j, rows;
 	cout<<"Display the pattern"<<endl;
 	cout<<"-------------------"<<endl;
 
-	i,j,rows;
 	cout<<"Input number of rows :"<<endl;
 
 
